@@ -22,8 +22,11 @@ My intention of posting links to my articles on the blog is to draw the attentio
 And ones again, The “Knowledge is Power” adage is long dead as the new reality of the workforce has taught us that sharing knowledge is beneficial to everybody. So start capturing and communicating your organization’s deep smarts and incase any suggestion please mail me. Thanks :)
 
 Cyber Forensics blog: https://d3pakblog.wordpress.com/
+
 Cyber Forensic group: https://www.facebook.com/groups/ComputerForensic/ 
+
 LinkedIn : https://zw.linkedin.com/in/d3pak
+
 Email: D3pak@protonmail.com 
 
 +++++++++++++++++++++++++++++++++++++++
