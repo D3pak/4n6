@@ -8,7 +8,7 @@ Buddha
 
 It’s all about today’s digital security and increasing cyber-crime information. Sharp knowledge and computer soundness may lead you ahead and make you differentiate among tech geek 🙂
 
-Digital forensics (sometimes known as digital forensic science) is a branch of forensic science encompassing the recovery and investigation of material found in digital devices, often in relation to computer crime. In simple concept Techno-legal standard:
+Digital forensics (sometimes known as digital forensic science) is a branch of forensic science encompassing the recovery and investigation of material found in digital devices, often in relation to computer crime. In simple concept Techno-legal standard: IPAD
 
 I: Identification,
 P: Preservation,
@@ -30,6 +30,9 @@ LinkedIn : https://zw.linkedin.com/in/d3pak
 Email: D3pak@protonmail.com 
 
 +++++++++++++++++++++++++++++++++++++++
+
 BE SMART & CREATIVE IN CYBER WORLD
+
 ++++++++++++++++++++++++++++++++++++++++
+
 
